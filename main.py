@@ -69,6 +69,7 @@ info_emprestimo['Status Emprestimo'] = info_emprestimo['Status Emprestimo'].repl
     'Approved': 'Aprovado',
     'Denied': 'Negado'
 })
+info_emprestimo['Renda'] = info_emprestimo['Renda'].map(lambda x: f"{x:.2f}")
 
 print(info_emprestimo)
 

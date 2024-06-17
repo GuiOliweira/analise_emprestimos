@@ -1,62 +1,62 @@
 Idade,Sexo,Ocupacao,Educacao,Estado Civil,Renda,Pontuacao de Crédito,Status Emprestimo
-32,Masculino,Engenheiro,Graduação,Casado,85000,720,Aprovado
-45,Feminino,Professor,Mestrado,Solteiro,62000,680,Aprovado
-28,Masculino,Estudante,Ensino Médio,Solteiro,25000,590,Negado
-51,Feminino,Gerente,Graduação,Casado,105000,780,Aprovado
-36,Masculino,Contador,Graduação,Casado,75000,710,Aprovado
-24,Feminino,Enfermeira,Curso Técnico,Solteiro,48000,640,Negado
-42,Masculino,Advogado,Doutorado,Casado,120000,790,Aprovado
-29,Feminino,Artista,Graduação,Solteiro,38000,620,Negado
-37,Masculino,Tecnologia da Informação,Mestrado,Casado,92000,750,Aprovado
-48,Feminino,Médico,Doutorado,Casado,180000,820,Aprovado
-55,Masculino,Consultor,Mestrado,Casado,110000,770,Aprovado
-31,Feminino,Analista,Graduação,Solteiro,68000,690,Aprovado
-26,Masculino,Vendedor,Ensino Médio,Solteiro,42000,610,Negado
-39,Feminino,Marketing,Graduação,Casado,78000,730,Aprovado
-44,Masculino,Arquiteto,Mestrado,Casado,95000,760,Aprovado
-27,Feminino,Designer,Graduação,Solteiro,52000,650,Negado
-34,Masculino,Engenheiro,Graduação,Casado,88000,740,Aprovado
-41,Feminino,Farmacêutico,Doutorado,Casado,125000,800,Aprovado
-30,Masculino,Pesquisador,Mestrado,Solteiro,72000,700,Aprovado
-53,Feminino,Professor,Doutorado,Casado,98000,790,Aprovado
-38,Masculino,Piloto,Graduação,Casado,80000,720,Aprovado
-25,Feminino,Recepcionista,Ensino Médio,Solteiro,35000,580,Negado
-46,Masculino,Banqueiro,Mestrado,Casado,115000,780,Aprovado
-33,Feminino,Escritor,Graduação,Solteiro,45000,630,Negado
-40,Masculino,Chefe de Cozinha,Curso Técnico,Casado,60000,690,Aprovado
-28,Feminino,Veterinário,Doutorado,Solteiro,75000,710,Aprovado
-35,Masculino,Vendas,Graduação,Casado,70000,700,Aprovado
-43,Feminino,Recursos Humanos,Mestrado,Casado,90000,750,Aprovado
-31,Masculino,Eletricista,Ensino Médio,Solteiro,55000,670,Aprovado
-49,Feminino,Corretor de Imóveis,Graduação,Casado,65000,720,Aprovado
-27,Masculino,Fotógrafo,Curso Técnico,Solteiro,40000,600,Negado
-54,Feminino,Editor,Mestrado,Casado,85000,760,Aprovado
-32,Masculino,Programador,Graduação,Casado,95000,780,Aprovado
-47,Feminino,Dentista,Doutorado,Casado,140000,810,Aprovado
-29,Masculino,Músico,Graduação,Solteiro,30000,570,Negado
-52,Feminino,Psicólogo,Doutorado,Casado,110000,800,Aprovado
-35,Masculino,Engenheiro,Mestrado,Casado,100000,770,Aprovado
-26,Feminino,Garçom,Ensino Médio,Solteiro,28000,560,Negado
-40,Masculino,Desenvolvedor de Software,Graduação,Casado,85000,740,Aprovado
-33,Feminino,Estilista,Curso Técnico,Solteiro,42000,620,Negado
-38,Masculino,Contador,Graduação,Casado,82000,730,Aprovado
-30,Feminino,Professor,Mestrado,Solteiro,58000,670,Aprovado
-45,Masculino,Gerente,Graduação,Casado,110000,790,Aprovado
-28,Feminino,Enfermeira,Curso Técnico,Solteiro,50000,660,Negado
-42,Masculino,Advogado,Doutorado,Casado,130000,800,Aprovado
-36,Feminino,Engenheiro,Mestrado,Casado,90000,740,Aprovado
-31,Masculino,Analista,Graduação,Solteiro,65000,680,Aprovado
-48,Feminino,Médico,Doutorado,Casado,175000,830,Aprovado
-34,Masculino,Tecnologia da Informação,Graduação,Casado,78000,720,Aprovado
-27,Feminino,Artista,Graduação,Solteiro,35000,600,Negado
-41,Masculino,Consultor,Mestrado,Casado,105000,760,Aprovado
-29,Feminino,Designer,Graduação,Solteiro,48000,640,Negado
-37,Masculino,Engenheiro,Graduação,Casado,92000,750,Aprovado
-44,Feminino,Marketing,Mestrado,Casado,85000,740,Aprovado
-32,Masculino,Vendedor,Ensino Médio,Solteiro,45000,630,Negado
-50,Feminino,Professor,Doutorado,Casado,120000,810,Aprovado
-39,Masculino,Arquiteto,Mestrado,Casado,100000,770,Aprovado
-25,Feminino,Recepcionista,Ensino Médio,Solteiro,32000,570,Negado
-43,Masculino,Banqueiro,Graduação,Casado,95000,760,Aprovado
-30,Feminino,Escritor,Mestrado,Solteiro,55000,650,Aprovado
-38,Masculino,Chefe de Cozinha,Curso Técnico,Casado,65000,700,Aprovado
+32,Masculino,Engenheiro,Graduação,Casado,85000.00,720,Aprovado
+45,Feminino,Professor,Mestrado,Solteiro,62000.00,680,Aprovado
+28,Masculino,Estudante,Ensino Médio,Solteiro,25000.00,590,Negado
+51,Feminino,Gerente,Graduação,Casado,105000.00,780,Aprovado
+36,Masculino,Contador,Graduação,Casado,75000.00,710,Aprovado
+24,Feminino,Enfermeira,Curso Técnico,Solteiro,48000.00,640,Negado
+42,Masculino,Advogado,Doutorado,Casado,120000.00,790,Aprovado
+29,Feminino,Artista,Graduação,Solteiro,38000.00,620,Negado
+37,Masculino,Tecnologia da Informação,Mestrado,Casado,92000.00,750,Aprovado
+48,Feminino,Médico,Doutorado,Casado,180000.00,820,Aprovado
+55,Masculino,Consultor,Mestrado,Casado,110000.00,770,Aprovado
+31,Feminino,Analista,Graduação,Solteiro,68000.00,690,Aprovado
+26,Masculino,Vendedor,Ensino Médio,Solteiro,42000.00,610,Negado
+39,Feminino,Marketing,Graduação,Casado,78000.00,730,Aprovado
+44,Masculino,Arquiteto,Mestrado,Casado,95000.00,760,Aprovado
+27,Feminino,Designer,Graduação,Solteiro,52000.00,650,Negado
+34,Masculino,Engenheiro,Graduação,Casado,88000.00,740,Aprovado
+41,Feminino,Farmacêutico,Doutorado,Casado,125000.00,800,Aprovado
+30,Masculino,Pesquisador,Mestrado,Solteiro,72000.00,700,Aprovado
+53,Feminino,Professor,Doutorado,Casado,98000.00,790,Aprovado
+38,Masculino,Piloto,Graduação,Casado,80000.00,720,Aprovado
+25,Feminino,Recepcionista,Ensino Médio,Solteiro,35000.00,580,Negado
+46,Masculino,Banqueiro,Mestrado,Casado,115000.00,780,Aprovado
+33,Feminino,Escritor,Graduação,Solteiro,45000.00,630,Negado
+40,Masculino,Chefe de Cozinha,Curso Técnico,Casado,60000.00,690,Aprovado
+28,Feminino,Veterinário,Doutorado,Solteiro,75000.00,710,Aprovado
+35,Masculino,Vendas,Graduação,Casado,70000.00,700,Aprovado
+43,Feminino,Recursos Humanos,Mestrado,Casado,90000.00,750,Aprovado
+31,Masculino,Eletricista,Ensino Médio,Solteiro,55000.00,670,Aprovado
+49,Feminino,Corretor de Imóveis,Graduação,Casado,65000.00,720,Aprovado
+27,Masculino,Fotógrafo,Curso Técnico,Solteiro,40000.00,600,Negado
+54,Feminino,Editor,Mestrado,Casado,85000.00,760,Aprovado
+32,Masculino,Programador,Graduação,Casado,95000.00,780,Aprovado
+47,Feminino,Dentista,Doutorado,Casado,140000.00,810,Aprovado
+29,Masculino,Músico,Graduação,Solteiro,30000.00,570,Negado
+52,Feminino,Psicólogo,Doutorado,Casado,110000.00,800,Aprovado
+35,Masculino,Engenheiro,Mestrado,Casado,100000.00,770,Aprovado
+26,Feminino,Garçom,Ensino Médio,Solteiro,28000.00,560,Negado
+40,Masculino,Desenvolvedor de Software,Graduação,Casado,85000.00,740,Aprovado
+33,Feminino,Estilista,Curso Técnico,Solteiro,42000.00,620,Negado
+38,Masculino,Contador,Graduação,Casado,82000.00,730,Aprovado
+30,Feminino,Professor,Mestrado,Solteiro,58000.00,670,Aprovado
+45,Masculino,Gerente,Graduação,Casado,110000.00,790,Aprovado
+28,Feminino,Enfermeira,Curso Técnico,Solteiro,50000.00,660,Negado
+42,Masculino,Advogado,Doutorado,Casado,130000.00,800,Aprovado
+36,Feminino,Engenheiro,Mestrado,Casado,90000.00,740,Aprovado
+31,Masculino,Analista,Graduação,Solteiro,65000.00,680,Aprovado
+48,Feminino,Médico,Doutorado,Casado,175000.00,830,Aprovado
+34,Masculino,Tecnologia da Informação,Graduação,Casado,78000.00,720,Aprovado
+27,Feminino,Artista,Graduação,Solteiro,35000.00,600,Negado
+41,Masculino,Consultor,Mestrado,Casado,105000.00,760,Aprovado
+29,Feminino,Designer,Graduação,Solteiro,48000.00,640,Negado
+37,Masculino,Engenheiro,Graduação,Casado,92000.00,750,Aprovado
+44,Feminino,Marketing,Mestrado,Casado,85000.00,740,Aprovado
+32,Masculino,Vendedor,Ensino Médio,Solteiro,45000.00,630,Negado
+50,Feminino,Professor,Doutorado,Casado,120000.00,810,Aprovado
+39,Masculino,Arquiteto,Mestrado,Casado,100000.00,770,Aprovado
+25,Feminino,Recepcionista,Ensino Médio,Solteiro,32000.00,570,Negado
+43,Masculino,Banqueiro,Graduação,Casado,95000.00,760,Aprovado
+30,Feminino,Escritor,Mestrado,Solteiro,55000.00,650,Aprovado
+38,Masculino,Chefe de Cozinha,Curso Técnico,Casado,65000.00,700,Aprovado
