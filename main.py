@@ -71,3 +71,5 @@ info_emprestimo['Status Emprestimo'] = info_emprestimo['Status Emprestimo'].repl
 })
 
 print(info_emprestimo)
+
+info_emprestimo.to_csv('emprestimo_traduzido.csv', index=False)
