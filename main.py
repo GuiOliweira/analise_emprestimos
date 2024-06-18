@@ -71,6 +71,16 @@ info_emprestimo['Status Emprestimo'] = info_emprestimo['Status Emprestimo'].repl
 })
 info_emprestimo['Renda'] = info_emprestimo['Renda'].map(lambda x: f"{x:.2f}")
 
-print(info_emprestimo)
+plt.figure(figsize=(12, 8))
+sns.countplot(data=info_emprestimo, x='Pontuacao de Crédito',
+              hue='Status Emprestimo')
+
+# Adiciona título e rótulos aos eixos
+plt.title('Distribuição do Status de Empréstimo por Pontuação de Crédito')
+plt.xlabel('Pontuação de Crédito')
+plt.ylabel('Contagem')
+
+
+plt.show()
 
 info_emprestimo.to_csv('emprestimo_traduzido.csv', index=False)
